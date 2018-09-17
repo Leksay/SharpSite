@@ -1,0 +1,11 @@
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\bin\Debug\netcoreapp2.0\TEST_SITE_true.deps.json
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\bin\Debug\netcoreapp2.0\TEST_SITE_true.runtimeconfig.json
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\bin\Debug\netcoreapp2.0\TEST_SITE_true.runtimeconfig.dev.json
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\bin\Debug\netcoreapp2.0\TEST_SITE_true.dll
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\bin\Debug\netcoreapp2.0\TEST_SITE_true.pdb
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\obj\Debug\netcoreapp2.0\TEST_SITE_true.csprojAssemblyReference.cache
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\obj\Debug\netcoreapp2.0\TEST_SITE_true.csproj.CoreCompileInputs.cache
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\obj\Debug\netcoreapp2.0\TEST_SITE_true.AssemblyInfoInputs.cache
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\obj\Debug\netcoreapp2.0\TEST_SITE_true.AssemblyInfo.cs
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\obj\Debug\netcoreapp2.0\TEST_SITE_true.dll
+E:\SharpSite\TEST_SITE_true\TEST_SITE_true\obj\Debug\netcoreapp2.0\TEST_SITE_true.pdb
